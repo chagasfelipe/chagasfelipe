@@ -1,6 +1,6 @@
 **Hello, I'm Felipe** 👋
 
-Java Developer | MBA Big Data | Data Analytics | Business Intelligence | Data Visualization | Systems Specialist 
+Data Engineer | Java Developer | MBA Big Data | Data Analytics | Business Intelligence | Data Visualization | Systems Specialist 
 
 <!--
 **chagasfelipe/chagasfelipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
